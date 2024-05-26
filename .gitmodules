@@ -1,0 +1,3 @@
+[submodule "forsubmodule"]
+	path = forsubmodule
+	url = https://github.com/NamithaPeddapuli/forsubmodule.git
